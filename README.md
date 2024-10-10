@@ -1,7 +1,3 @@
-Here's a fresh README file for your Vite + React portfolio website:
-
----
-
 # Portfolio Website
 
 Welcome to my personal portfolio website! This project is built with **Vite** and **React**, aiming to showcase my projects, skills, and experience in web development.
@@ -65,7 +61,3 @@ If you have suggestions or find any issues, feel free to open an issue or submit
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify any part to fit your specific setup or preferences!# React-website
